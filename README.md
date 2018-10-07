@@ -17,16 +17,6 @@ As the provider of the job board, I want to approve/deny incoming job post reque
 ### Story 4:
 As the provider of the job board, I want to accept monetary compensation for displaying a job poster's opportunity.
 
-<h2>Contributing</h2>
-<div>
-    <p>
-        This is a pretty relaxed project, and I'm open to any new interpretations and additions to the MVP, described below. Take a look at some issues I've created, or create new ones and tag me. Pretty simple? Great!
-    </p>
-    <p>
-        Also, be respectful of others. I have no problems reporting abuse that might appear in the form of disrespectful comments towards myself and others. This is a welcoming environment, and we should all collaborate appropriately. Just have fun!
-    </p>
-</div>
-
 ## MVP
 The project's minimimum viable product should be pretty simple. We won't worry about persistent storage solutions and any other backend service components. This will, for the time being, be a frontend React-based endeavor. Here are some **basic feature goals**:
 
