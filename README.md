@@ -38,3 +38,12 @@ The project's minimimum viable product should be pretty simple. We won't worry a
 - General footer in which anyone can incorporate their own image/messaging
 - Interface that displays job postings provided by hard-coded or api-sourced data
 - Interface that enables users to create job postings
+
+
+## License
+
+Active Record is released under the MIT license:
+
+* https://opensource.org/licenses/MIT
+
+
