@@ -41,7 +41,6 @@ The project's minimimum viable product should be pretty simple. We won't worry a
 
 
 ## License
-----------------------------------
 
 Active Record is released under the MIT license:
 
