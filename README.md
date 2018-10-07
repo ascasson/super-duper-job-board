@@ -1,5 +1,8 @@
 # Super Duper Job Board
 
+## Fast Merges!
+Want to start contributing quickly to a project? Here you go! I'm available often to merge PR's. Check out the quick [contributing documentation](contributing.md).
+
 ## How to run the app?
 
 1. Clone the repo.
