@@ -3,11 +3,15 @@
 ## Fast Merges!
 Want to start contributing quickly to a project? Here you go! I'm available often to merge PR's. Check out the quick [contributing documentation](contributing.md).
 
+## Prerequisites
+
+- Node v8.0.0 or higher
+
 ## How to run the app?
 
 1. Clone the repo.
-2. Run ```npm install``` in terminal.
-3. Run ```npm start``` in terminal.
+2. Run ```npm install``` or ```yarn install``` in terminal.
+3. Run ```npm start``` or ```yarn start``` in terminal.
 4. Navigate to ```localhost:3000``` in your browser.
 
 ## What the heck is this?
