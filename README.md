@@ -1,5 +1,12 @@
 # Super Duper Job Board
 
+## How to run the app?
+
+1. Clone the repo.
+2. Run ```npm install``` in terminal.
+3. Run ```npm start``` in terminal.
+4. Navigate to ```localhost:3000``` in your browser.
+
 ## What the heck is this?
 Basically, the idea behind this stems from my partner needing a way for her to show available jobs in her industry. These jobs would ultimately be created by people/companies who have open positions. It's pretty similar to Craigslist, but in this case entries would need to be approved and paid for, which would also require some integration with a payment system.
 
