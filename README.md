@@ -5,6 +5,16 @@ Want to start contributing quickly to a project? Here you go! I'm available ofte
 
 ## How to run the app?
 
+Using ```npm```
+
+You should have Node v8 or higher installed.
+1. Clone the repo.
+2. Run ```yarn install``` in terminal.
+3. Run ```yarn start``` in terminal.
+4. Navigate to ```localhost:3000``` in your browser.
+
+Using ```yarn```
+
 1. Clone the repo.
 2. Run ```npm install``` in terminal.
 3. Run ```npm start``` in terminal.
