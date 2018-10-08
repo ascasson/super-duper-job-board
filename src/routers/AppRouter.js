@@ -1,6 +1,7 @@
 import React from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom'
 import Header from '../components/Header';
+import Footer from '../components/Footer';
 import Dashboard from '../components/Dashboard';
 
 const AppRouter = () => (
@@ -10,6 +11,7 @@ const AppRouter = () => (
     <Switch>
     <Route path="/" component={Dashboard} exact={true}/>
     </Switch>
+    <Footer />
   </div>
   
   </BrowserRouter>
