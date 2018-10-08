@@ -39,6 +39,11 @@ The project's minimimum viable product should be pretty simple. We won't worry a
 - Interface that displays job postings provided by hard-coded or api-sourced data
 - Interface that enables users to create job postings
 
+## Recommended Features
+- Use [Redux](https://redux.js.org/basics/usagewithreact) and [Redux-thunk](https://github.com/reduxjs/redux-thunk) for state management and async call to API
+- Use [Error Boundaries](https://reactjs.org/docs/error-boundaries.html) to handle App error
+- Use [eslint](https://eslint.org/), [prettier](https://prettier.io/) with [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb) for automatic and better code formatting
+- Use [Material-ui](https://material-ui.com/) or [Ant design](https://ant.design/) or any component framework
 
 ## License
 
