@@ -10,7 +10,7 @@ const Footer = () => (
         <h3>Links</h3>
         <ul>
           <li>
-            <NavLink to="/" activeClassName="is-active" exact={true}>
+            <NavLink to="/" activeClassName="is-active" exact>
               Home
             </NavLink>
           </li>

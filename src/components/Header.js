@@ -1,12 +1,13 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+
 const Header = () => (
   <header className="App-header">
     <h1>Super duper job board</h1>
     <nav>
       <ul>
         <li>
-          <NavLink to="/" activeClassName="is-active" exact={true}>
+          <NavLink to="/" activeClassName="is-active" exact>
             Home
           </NavLink>
         </li>
