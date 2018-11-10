@@ -1,9 +1,9 @@
 import React from 'react';
-import './footer.css';
+import style from './footer.module.scss';
 import { NavLink } from 'react-router-dom';
 
 const Footer = () => (
-  <footer className="App-footer">
+  <footer className={style.Appfooter}>
     <div>
       <img src="http://via.placeholder.com/150x50" alt="Super Duper App Logo" />
       <nav>
